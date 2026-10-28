@@ -1,0 +1,170 @@
+
+[
+  {
+    "intent": "deals",
+    "keywords": [
+      "deal",
+      "deals",
+      "combo",
+      "combos",
+      "discount",
+      "offer",
+      "offers",
+      "special deal",
+      "family deal",
+      "zinger deal"
+    ],
+    "reply": "🔥 DESI BITES SPECIAL DEALS\n\n1. Student Deal — Rs. 399\n   1 Zinger Burger + Fries + Drink\n\n2. Family Deal — Rs. 1,499\n   2 Zinger Burgers + 2 Regular Burgers + 2 Fries + 1.5L Drink\n\n3. Biryani Deal — Rs. 499\n   2 Chicken Biryani Plates + 2 Drinks\n\nThese are demo prices for this chatbot project."
+  },
+  {
+    "intent": "menu",
+    "keywords": [
+      "menu",
+      "food",
+      "food items",
+      "price",
+      "prices",
+      "burger",
+      "burgers",
+      "biryani",
+      "pizza",
+      "fries",
+      "drink",
+      "drinks",
+      "sandwich",
+      "sandwiches",
+      "what can i eat",
+      "what do you serve"
+    ],
+    "reply": "🍽️ DESI BITES MENU\n\n🍔 BURGERS\nChicken Zinger Burger — Rs. 350\nChicken Cheese Burger — Rs. 400\nBeef Burger — Rs. 450\n\n🍛 DESI FOOD\nChicken Biryani — Rs. 280\nChicken Karahi (half) — Rs. 900\nChicken Karahi (full) — Rs. 1,700\nChicken Tikka — Rs. 350\n\n🍕 FAST FOOD\nSmall Pizza — Rs. 550\nMedium Pizza — Rs. 850\nLarge Pizza — Rs. 1,200\nRegular Fries — Rs. 180\nLoaded Fries — Rs. 350\n\n🥤 DRINKS\nSoft Drink — Rs. 100\nMineral Water — Rs. 70\n\nAll prices are fictional demo prices, not verified restaurant prices."
+  },
+  {
+    "intent": "delivery",
+    "keywords": [
+      "delivery",
+      "deliver",
+      "home delivery",
+      "delivery charges",
+      "delivery fee",
+      "free delivery",
+      "delivery area",
+      "deliver to my home"
+    ],
+    "reply": "🛵 DESI BITES DELIVERY\n\nDemo delivery service is available within selected areas of Sargodha.\n\nDelivery charges: Rs. 100\nEstimated delivery time: 30–45 minutes\nFree delivery on orders above Rs. 2,000.\n\nThese are demo details. Actual delivery coverage, charges and timing would need confirmation."
+  },
+  {
+    "intent": "timings",
+    "keywords": [
+      "timing",
+      "timings",
+      "opening time",
+      "closing time",
+      "opening hours",
+      "working hours",
+      "when do you open",
+      "when do you close",
+      "are you open",
+      "restaurant hours"
+    ],
+    "reply": "🕒 DESI BITES OPENING HOURS\n\nMonday–Sunday: 12:00 PM – 11:00 PM\n\nThese are fictional demo timings. This chatbot cannot verify whether a real restaurant is currently open."
+  },
+  {
+    "intent": "location",
+    "keywords": [
+      "location",
+      "address",
+      "where are you",
+      "where is the restaurant",
+      "restaurant address",
+      "directions",
+      "your location",
+      "where located"
+    ],
+    "reply": "📍 DESI BITES LOCATION\n\nDemo address: Shop 12, Food Street, University Road, Sargodha, Pakistan.\n\nThis is a fictional address created for the chatbot demo, not a verified business location."
+  },
+  {
+    "intent": "payment",
+    "keywords": [
+      "payment",
+      "pay",
+      "cash",
+      "cash on delivery",
+      "cod",
+      "easypaisa",
+      "jazzcash",
+      "bank transfer",
+      "online payment",
+      "card payment",
+      "debit card"
+    ],
+    "reply": "💳 PAYMENT OPTIONS\n\nFor this demo restaurant, the available payment methods are:\n\n• Cash on delivery\n• Cash at the restaurant\n• Easypaisa / JazzCash (demo options)\n\nThese are example options only. A real restaurant would need to confirm which methods it accepts."
+  },
+  {
+    "intent": "how_to_order",
+    "keywords": [
+      "how to order",
+      "how can i order",
+      "place an order",
+      "order food",
+      "order online",
+      "ordering",
+      "i want to order",
+      "how do i order"
+    ],
+    "reply": "🛍️ HOW TO ORDER\n\n1. Ask me to show the menu.\n2. Choose your food and quantity.\n3. Contact our demo number: 0300-1234567.\n4. Tell the restaurant your order and delivery address.\n\nThis chatbot is a demo. It does not submit orders or contact the restaurant automatically."
+  },
+  {
+    "intent": "contact",
+    "keywords": [
+      "contact",
+      "phone",
+      "phone number",
+      "contact number",
+      "mobile number",
+      "call",
+      "telephone",
+      "restaurant number",
+      "whatsapp",
+      "customer service"
+    ],
+    "reply": "📞 DESI BITES CONTACT\n\nDemo phone number: 0300-1234567\nDemo WhatsApp number: 0300-1234567\n\nThese numbers are placeholders for the project and may not belong to a real restaurant."
+  },
+  {
+    "intent": "thanks",
+    "keywords": [
+      "thank you",
+      "thanks",
+      "thank",
+      "shukriya",
+      "thank you so much"
+    ],
+    "reply": "You're very welcome! 😊 Thank you for visiting Desi Bites. Would you like to see our menu or today's deals?"
+  },
+  {
+    "intent": "goodbye",
+    "keywords": [
+      "goodbye",
+      "bye",
+      "see you",
+      "see you later",
+      "take care",
+      "Allah hafiz",
+      "allah hafiz"
+    ],
+    "reply": "Thank you for chatting with Desi Bites! 🍊 Have a wonderful day. We hope to serve you soon!"
+  },
+  {
+    "intent": "greeting",
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "salam",
+      "assalam o alaikum",
+      "good morning",
+      "good afternoon",
+      "good evening"
+    ],
+    "reply": "Hello! 👋 Welcome to Desi Bites, Sargodha. 🍊\n\nI can help you with our menu, deals, delivery, timings, location and payment options. What would you like to know?"
+  }
+]
